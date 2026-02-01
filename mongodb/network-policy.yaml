@@ -25,4 +25,4 @@ spec:
           tier: backend
     ports:
     - protocol: TCP
-      port: 27017
+      port: 27017 
